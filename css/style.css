@@ -1,7 +1,27 @@
 h1{
 	text-align: center;
+	font-size: 300%;
+}
+
+.section1{
+	background-color:#E7E7E7;
 }
 
 .img-right{
 	float: right;
+}
+.c1{ 
+	background-color:#D6E0FF;
+ }
+ .c2{
+ 	background-color: #D6FFD8;
+ }
+.c3{
+	background-color:#FFECD6;
+}
+.c4{
+	background-color:#FFD6D6;
+}
+.row{
+	padding: 1em;
 }
